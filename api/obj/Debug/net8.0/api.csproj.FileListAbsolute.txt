@@ -31,3 +31,4 @@ C:\Users\Amr.F.Daoud\Desktop\BA Course\Session01-Test\api\obj\Debug\net8.0\refin
 C:\Users\Amr.F.Daoud\Desktop\BA Course\Session01-Test\api\obj\Debug\net8.0\api.pdb
 C:\Users\Amr.F.Daoud\Desktop\BA Course\Session01-Test\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 C:\Users\Amr.F.Daoud\Desktop\BA Course\Session01-Test\api\obj\Debug\net8.0\ref\api.dll
+C:\Users\Amr.F.Daoud\Desktop\BA Course\Session01-Test\api\obj\Debug\net8.0\api.sourcelink.json
