@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Amr.F.Daoud\\Desktop\\BA Course\\Session01-Test\\api\\api.csproj": {}
+    "C:\\Users\\Amr.F.Daoud\\Desktop\\BA Course\\Session01-Test\\api\\api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Amr.F.Daoud\\Desktop\\BA Course\\Session01-Test\\api\\api.csproj": {
+    "C:\\Users\\Amr.F.Daoud\\Desktop\\BA Course\\Session01-Test\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Amr.F.Daoud\\Desktop\\BA Course\\Session01-Test\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\Amr.F.Daoud\\Desktop\\BA Course\\Session01-Test\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "c:\\Users\\Amr.F.Daoud\\Desktop\\BA Course\\Session01-Test\\api\\api.csproj",
+        "projectPath": "C:\\Users\\Amr.F.Daoud\\Desktop\\BA Course\\Session01-Test\\api\\api.csproj",
         "packagesPath": "C:\\Users\\Amr.F.Daoud\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Amr.F.Daoud\\Desktop\\BA Course\\Session01-Test\\api\\obj\\",
+        "outputPath": "C:\\Users\\Amr.F.Daoud\\Desktop\\BA Course\\Session01-Test\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
